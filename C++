@@ -1,0 +1,18 @@
+Traduccion del codigo a C++.
+
+hay dudas por resolver 
+
+¿cual seria una relacion adecuada masa del gas - presion ejercida por el piston?
+
+¿cual sera el voumen de resipiente adecuado para el numero de moleculas de gas, y el volumen adecuado para ellas? 
+
+¿cual es el delta de tiempo mas adecuado para una simulacion de 100 particulas?
+
+¿que implica la modificacion de la constante k de elasticidad de las paredes del recipiente y de las particulas? 
+
+¿hay que primero deducir la ley de boyle y charles?
+
+¿como deducir la ley de los gases ideales? 
+
+¿es importante que el piston no comienze a caer desde una altura considerable respecto a las moleculas?
+paresiera que quedara osiclando el piston debido a esto.
